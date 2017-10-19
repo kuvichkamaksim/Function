@@ -7,3 +7,9 @@ console.dir({
   length: sum.length,
   toString: sum.toString()
 });
+
+console.log({
+  name: sum.name,
+  length: sum.length,
+  toString: sum.toString()
+});
